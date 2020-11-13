@@ -1,0 +1,1 @@
+IncludeScript("pickItemsLogger", getroottable());

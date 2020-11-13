@@ -1,0 +1,14 @@
+"AddonInfo"
+{
+     addonSteamAppID         "550" 
+     addontitle              "아이템 습득 등 중요 이벤트 기록기"
+     addonversion            "1.0r"
+     addonauthor             "히마와리"
+     addonDescription        "트롤러들이 몰래 벌이는 트롤링, 이를테면 안전지대에서 킷을 2개 먹는다거나, 죽음의 센터 막챕에서 기름통을 터뜨리거나 하는 행위들이 콘솔에 기록되어, 추방투표 등에 참고할 수 있습니다."
+	addonURL0 ""
+	addonContent_Sound "0"
+	addonContent_Music "0"
+	addonContent_prop "0"
+	addonContent_script "1"
+	addonContent_Survivor "1"
+}
